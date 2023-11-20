@@ -27,3 +27,15 @@
  |Godda **midas**|Good afternoon|/ɡˈɔdɑː. 'mɪdɑs/|From French _après-midi_|
  |Godda **naitas***|Good night|/ɡˈɔdɑː. naɪ'tɑs/|From English _night_|
 > Observation: (*) In _godda naitas_, the phrase can be used for both _good evening_ and _good night_
+
+## Proto-Indo-European Language's Words
+| Katonian | English| IPA Transcription| Etymology|
+ |---------|--------| -----------------|----------|
+ | Mota |Mother|/mʊ:'ta/|From English _mother_|
+ | Fata|Father|/'fa.ta/|From English _father_|
+ |Bruda|Brother|/'bʁʊ:da/|From German _bruder_|
+ |Siska|Sister|/sis'kɑː/|From English _sister_|
+ |Dogeda|Daugther|/dʊ:'ge.dɑ/|From English _daughter_|
+ |Sona|Son|/'sʊ:nɑ/|From English _son_|
+ |Gratsonna|Grandson|/gʁɑd'sʊ:na/|From English _grandson_|
+ |Gratdogetta|Grandaughter|/gʁɑd.dʊ:'ge.tɑ/|From English _grandaugther|
