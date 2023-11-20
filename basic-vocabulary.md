@@ -22,3 +22,4 @@
  |Tuka | Bye| /tˈuka/| From German _tschüss_|
  |Howa er ju?|How are you?|/xˈɔva. ˈɛr. ju/| _Etymology will be explained soon_|
  |Ei beinas godda|I'm good|/eɪ. bɪnɑːs. ɡˈɔdɑː/|_Etymology will be explained soon_|
+ |Ei beinas sleikas|I'm bad|/eɪ. bɪnɑːs. slˈɪkɑːs/|_Etymology will be explained soon_|
