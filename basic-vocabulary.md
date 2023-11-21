@@ -36,7 +36,7 @@
  | Fata|Father|/'fa.ta/|From English _father_|
  |Bruda|Brother|/'bʁʊ:da/|From German _bruder_|
  |Siska|Sister|/sis'kaː/|From English _sister_|
- |Dogeda|Daugther|/dʊ:'ge.da/|From English _daughter_|
+ |Dogeda|Daughter|/dʊ:'ge.da/|From English _daughter_|
  |Sona|Son|/'sʊ:na/|From English _son_|
  |Gratsonna|Grandson|/gʁad'sʊ:na/|From English _grandson_|
  |Gratdogetta|Grandaughter|/gʁadʊ:'ge.ta/|From English _grandaugther_|
