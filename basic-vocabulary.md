@@ -59,4 +59,4 @@
  |Avitas|Guest|/'a.vi:tas/|From French _invité_|
  |Gabas|Host|/ga.'bas/|From German _gastgeber_|
  |Husa|House|/'xʊ.sa/|From English _house_|
- |Darfas|Village and Settlement|/dʊr.fas/|From German _dorf_|
+ |Darfas|Village and Settlement|/daʁ.fas/|From German _dorf_|
