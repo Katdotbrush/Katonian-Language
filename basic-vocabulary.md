@@ -53,11 +53,19 @@
  |Gün|Person|/gʊ:'nas/|From Gothic _guma_|
  |Mäte|Master and Leader|/'mai.ta/|From German _meister_|
 
- ### 3. Places and House-Related
+ ### 3. Animals
+ | Katonian | English| IPA Transcription| Etymology|
+ |---------|--------| -----------------|----------|
+ |Doge|Dog|/'dʊ:ge/|From English _dog_|
+ |Kate|Cat|/'kat/|From Dutch _kat_|
+ |Volge|Bird|/'vʊ:gel/|From German _vogel_|
+ |Fisga|Fish|/'fis.ka/|From Danish _fisk_|
+ 
+ ### 6. Places and House-Related
  | Katonian | English| IPA Transcription| Etymology|
  |---------|--------| -----------------|----------|
  |Avita|Guest|/'a.vi:ta/|From French _invité_|
- |Gäbe|Host|/gai.'bas/|From German _gastgeber_|
+ |Gäbe|Host|/gai.'be/|From German _gastgeber_|
  |Hüs|House|/'xʊ.s/|From English _house_|
  |Därf|Village and Settlement|/daiʁv/|From German _dorf_|
  |Höyt|Hotel|/hʊit/|From French _hôtel_|
