@@ -32,10 +32,10 @@
 ### 1. Family 
 | Katonian | English| IPA Transcription| Etymology|
  |---------|--------| -----------------|----------|
- | Mota |Mother|/mʊ:'ta/|From English _mother_|
- | Fata|Father|/'fa.ta/|From English _father_|
- |Bruda|Brother|/'bʁʊ:da/|From German _bruder_|
- |Siska|Sister|/sis'kaː/|From English _sister_|
+ | Mät |Mother|/mai'ta/|From English _mother_|
+ | Fät|Father|/'fai.ta/|From English _father_|
+ |Brüd|Brother|/'bʁʊ:t/|From German _bruder_|
+ |Sisga|Sister|/sis'gaː/|From English _sister_|
  |Dogeda|Daughter|/dʊ:'ge.da/|From English _daughter_|
  |Sona|Son|/'sʊ:na/|From English _son_|
  |Gratsonna|Grandson|/gʁad'sʊ:na/|From English _grandson_|
@@ -46,17 +46,19 @@
  ### 2. People
  | Katonian | English| IPA Transcription| Etymology|
  |---------|--------| -----------------|----------|
- | Mana|Man|/'mɑnɑ/|From Englsh _man_|
- |Vona|Woman|/'vʊ:na/|From English _woman_|
- |Boya|Boy|/'bʊ:ja/|From English _boy_|
- |Mada|Girl|/'ma.da/|From German _mädchen_|
- |Gunas|Person|/gʊ'nas/|From Gothic _guma_|
- |Maitas|Master and Leader|/'mai.tas/|From German _meister_|
+ | Män|Man|/'mɑin/|From Englsh _man_|
+ |Vön|Woman|/'vʊ:na/|From English _woman_|
+ |Böya|Boy|/'bʊ:ja/|From English _boy_|
+ |Mäde|Girl|/'mai.da/|From German _mädchen_|
+ |Gün|Person|/gʊ:'nas/|From Gothic _guma_|
+ |Mäte|Master and Leader|/'mai.ta/|From German _meister_|
 
  ### 3. Places and House-Related
  | Katonian | English| IPA Transcription| Etymology|
  |---------|--------| -----------------|----------|
- |Avitas|Guest|/'a.vi:tas/|From French _invité_|
- |Gabas|Host|/ga.'bas/|From German _gastgeber_|
- |Husa|House|/'xʊ.sa/|From English _house_|
- |Darfas|Village and Settlement|/daʁ.fas/|From German _dorf_|
+ |Avita|Guest|/'a.vi:ta/|From French _invité_|
+ |Gäbe|Host|/gai.'bas/|From German _gastgeber_|
+ |Hüs|House|/'xʊ.s/|From English _house_|
+ |Därf|Village and Settlement|/daiʁv/|From German _dorf_|
+ |Höyt|Hotel|/hʊit/|From French _hôtel_|
+ 
