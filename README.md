@@ -1,4 +1,4 @@
-# The Katonian Language (Das Katonias Speikas)
+# The Katonian Language (Das Katones Spëken)
 A Language based on English, French, German and some other Germanic Languages
 
 ## What does the repository will have?
