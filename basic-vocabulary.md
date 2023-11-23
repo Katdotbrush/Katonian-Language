@@ -5,12 +5,12 @@
  As most of the languages in the world, Katonian has all the 6 common pronouns:
  | Katonian | English| IPA Transcription| Etymology|
  |---------|--------| -----------------|-----------|
- | Ei | I |/eɪ/| From English _i_|
+ | Ë | I |/eɪ/| From English _i_|
  | Ju* | You |/ju/| From English _you_|
- | Hei | He |/heɪ/| From English _he_
+ | Hë | He |/heɪ/| From English _he_
  | Ska | She|/skaː/| From English _she_|
  | Vi | We| /vi/| From Danish _vi_|
- | Dei| They|/ðeɪ/| From English _they_|
+ | Dë| They|/ðeɪ/| From English _they_|
  > Observation: (*) As in English, the You (_Ju_) can be both plural and singular (depending on the context)
 
 ## Basic Phrases
@@ -21,11 +21,11 @@
  |Hallo | Hello| /hˈaloː/| From German _hallo_|
  |Tuka | Bye| /'tuka/| From German _tschüss_|
  |Howa er ju?|How are you?|/xˈɔva. ˈɛr. ju/| _Etymology will be explained soon_|
- |Ei beinas **godda**|I'm good|/eɪ. 'bɪnaːs. ɡˈɔdaː/|From English _good_|
- |Ei beinas **sleikas**|I'm bad|/eɪ. 'bɪnaːs. slˈɪkaːs/|From German _schlecht_|
+ |Ei bënas **godda**|I'm good|/eɪ. 'beinaːs. ɡˈɔdaː/|From English _good_|
+ |Ei bënas **slëk**|I'm bad|/eɪ. 'beinaːs. slˈeik/|From German _schlecht_|
  |Godda **morgas**|Good morning|/ɡˈɔdaː. mˈɔɾɡaːs/|From German _morgen_|
  |Godda **midas**|Good afternoon|/ɡˈɔdaː. 'mɪdas/|From French _après-midi_|
- |Godda **naitas***|Good night|/ɡˈɔdaː. naɪ'tas/|From English _night_|
+ |Godda **näte***|Good night|/ɡˈɔdaː. naɪ'te/|From English _night_|
 > Observation: (*) In _godda naitas_, the phrase can be used for both _good evening_ and _good night_
 
 ## Proto-Indo-European Language's Words
